@@ -26,25 +26,25 @@ const About = () => {
     {
       icon: Code,
       title: 'Desenvolvimento Front-End',
-      description: 'React, TypeScript, Next.js, Html, CSS, JavaScript e tecnologias modernas para criar interfaces performáticas.',
+      description: 'Criação de interfaces performáticas com tecnologias modernas como React, TypeScript, Next.js, HTML, CSS e JavaScript.',
       color: 'text-primary'
     },
     {
       icon: Palette,
       title: 'UI/UX',
-      description: 'Interfaces intuitivas e experiências de usuário otimizadas para conversão.',
+      description: 'Design de interfaces intuitivas e experiências centradas no usuário, focadas em usabilidade e conversão.',
       color: 'text-accent'
     },
     {
       icon: Rocket,
       title: 'Performance',
-      description: 'Otimização de carregamento, SEO e acessibilidade para máxima eficiência.',
+      description: 'Aprimoramento de performance com foco em velocidade de carregamento, SEO técnico e acessibilidade.',
       color: 'text-secondary'
     },
     {
       icon: Users,
       title: 'Colaboração',
-      description: 'Trabalho em equipe, metodologias ágeis e comunicação efetiva.',
+      description: 'Colaboração em equipe com metodologias ágeis e comunicação clara em todas as etapas do projeto.',
       color: 'text-primary-glow'
     }
   ];
@@ -65,8 +65,7 @@ const About = () => {
             </h2>
             <div className="w-24 h-1 bg-gradient-primary mx-auto mb-8"></div>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              Desenvolvedor Front-End especializado em criar experiências digitais que conectam 
-              pessoas e marcas através de código limpo e arquitetura sólida.
+              Transformo ideias em experiências digitais que aproximam pessoas e marcas, com foco em código limpo e arquitetura bem estruturada.
             </p>
           </div>
 
@@ -76,7 +75,7 @@ const About = () => {
             {/* Text Content */}
             <div className="space-y-6 animate-fade-in-left">
               <h3 className="text-2xl font-bold text-foreground">
-                Transformando ideias em realidade digital
+                Onde ideias ganham vida no mundo digital.
               </h3>
               
               {/*<p className="text-muted-foreground leading-relaxed">
@@ -84,10 +83,7 @@ const About = () => {
               </p>
               */}
               <p className="text-muted-foreground leading-relaxed">
-                Minha abordagem combina conhecimento técnico  em Html, CSS, JavaScript, React, TypeScript e 
-                tecnologias modernas com foco em arquitetura escalável e código maintível. 
-                Acredito na importância de escrever código que outros desenvolvedores possam 
-                entender e manter facilmente.
+                Minha abordagem integra conhecimentos sólidos em HTML, CSS, JavaScript, React, TypeScript e outras tecnologias modernas, sempre com foco em arquiteturas escaláveis e código de fácil manutenção. Acredito que um bom código deve ser compreensível e evolutivo para qualquer desenvolvedor.
               </p>
               
              {/* <p className="text-muted-foreground leading-relaxed">
@@ -138,7 +134,7 @@ const About = () => {
           {/* Technologies */}
           <div className="text-center">
             <h3 className="text-2xl font-bold text-foreground mb-8">
-              Tecnologias que domino
+              Stack de tecnologias
             </h3>
             <div className="flex flex-wrap justify-center gap-4">
               {[

@@ -27,7 +27,7 @@ const Portfolio = () => {
   const projects = [
     {
       id: 1,
-      title: 'E-commerce Platform',
+      title: 'Plataformas de E-commerce',
       category: 'desenvolvimento',
       description: 'Plataforma completa de e-commerce com React, TypeScript e integração de pagamentos.',
       image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop',
@@ -84,7 +84,7 @@ const Portfolio = () => {
             <div className="w-24 h-1 bg-gradient-primary mx-auto mb-8"></div>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
              
-              front-end e design para criar experiências digitais memoráveis.
+              Front-end e design integrados para experiências digitais impactantes.
             </p>
           </div>
 
@@ -177,7 +177,7 @@ const Portfolio = () => {
           {/* CTA Section */}
           <div className="text-center mt-16">
             <p className="text-muted-foreground mb-6">
-              Gostou do que viu? Vamos trabalhar juntos!
+              Se meu trabalho despertou seu interesse, convido você a iniciarmos uma parceria de sucesso.
             </p>
             <Button 
               onClick={() => {

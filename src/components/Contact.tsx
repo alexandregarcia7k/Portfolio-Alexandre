@@ -126,8 +126,7 @@ const Contact = () => {
             </h2>
             <div className="w-24 h-1 bg-gradient-primary mx-auto mb-8"></div>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              Pronto para dar vida ao seu próximo projeto? Vamos conversar sobre
-              como posso ajudar a transformar suas ideias em realidade digital.
+              Pronto para tirar seu próximo projeto do papel? Vamos conversar sobre como posso transformar suas ideias em soluções digitais reais.
             </p>
           </div>
 
@@ -260,9 +259,7 @@ const Contact = () => {
                   Vamos trabalhar juntos!
                 </h3>
                 <p className="text-white/90 leading-relaxed">
-                  Estou sempre aberto a novos desafios e oportunidades. 
-                  Se você tem um projeto em mente ou apenas quer bater um papo 
-                  sobre desenvolvimento, não hesite em entrar em contato.
+                  Aberto a projetos, parcerias ou boas conversas sobre desenvolvimento. Fique à vontade para entrar em contato.
                 </p>
               </div>
             </div>

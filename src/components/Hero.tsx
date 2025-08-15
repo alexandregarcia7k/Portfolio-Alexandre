@@ -37,10 +37,10 @@ const Hero = () => {
             {/* Tagline */}
             <div className="mb-6">
               <p className="text-muted-foreground text-lg font-light">
-                Construindo pontes digitais,
+                Do conceito ao clique,
               </p>
               <p className="text-muted-foreground text-lg font-light">
-                pixel a pixel.
+                detalhe por detalhe.
               </p>
             </div>
 
@@ -57,9 +57,9 @@ const Hero = () => {
             {/* Description */}
             <div className="mb-8">
               <p className="text-muted-foreground text-lg leading-relaxed max-w-lg">
-                Ajudo marcas a desenvolver <span className="text-primary font-medium">experiências digitais únicas</span>, 
+                Desenvolvo <span className="text-primary font-medium">experiências digitais que unem propósito, design e tecnologia</span>, 
                 pensadas no contexto do mundo digital moderno. Cada detalhe é planejado para provocar uma 
-                <span className="text-primary font-medium"> transformação real e memorável</span>.
+                <span className="text-primary font-medium"> com foco em criar impacto duradouro.</span>.
               </p>
             </div>
 

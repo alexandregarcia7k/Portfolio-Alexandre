@@ -41,8 +41,7 @@ const Footer = () => {
               Alexandre
             </div>
             <p className="text-muted-foreground leading-relaxed">
-              Desenvolvedor Front-End criando experiências digitais 
-              únicas e memoráveis.
+              Front-End Developer focado em experiências digitais memoráveis e exclusivas.
             </p>
             <div className="flex gap-4">
               {socialLinks.map((social) => (
